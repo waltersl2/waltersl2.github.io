@@ -1,9 +1,13 @@
-h1{
-background-color:#000;
-color:#fff;
-font-size:3em;
+<style>
+h1 {
+  text-align: center;
 }
-p.fancy{
-color:#666;
-font-style: oblique;
+
+h2 {
+  text-align: left;
 }
+
+h3 {
+  text-align: right;
+}
+</style>
