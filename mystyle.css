@@ -5,5 +5,8 @@ font-size:3em;
 }
 p.fancy{
 color:#666;
-font-style: oblique;
+font-style: Times;
+}
+p {
+  font-family: "Times New Roman", Times, serif;
 }
