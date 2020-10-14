@@ -8,10 +8,14 @@ font-size:3em;
 }
 p.fancy{
 color:black;
-font-style: Times;
+font-style:Georgia;
 }
 h2{
   background-color:black;
   color:white;
   font-size:3em;
+}
+p.plain{
+  color:black;
+  font-style:Times;
 }
